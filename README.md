@@ -17,7 +17,7 @@ This project is part of my QA portfolio and demonstrates automated testing of a 
 
 ## 🧱 Project Structure:
 
-````
+```
 
 qa-login-automation/
 ├── pages/
@@ -27,7 +27,7 @@ qa-login-automation/
 ├── conftest.py
 ├── requirements.txt
 └── README.md
-
+```
 
 ## ▶️ Running the Tests:
 
